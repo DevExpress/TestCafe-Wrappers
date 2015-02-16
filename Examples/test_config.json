@@ -1,0 +1,11 @@
+{
+    "modules": {
+        "keyProvider": [
+            "../modules/key_provider.js"
+        ],
+        "dx": [
+        	"../modules/wrappers/dx.js",
+        	"../modules/wrappers/web/ASPxGridViewWrapper.js"
+        ]
+    }
+}
